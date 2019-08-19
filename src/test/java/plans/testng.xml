@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Yola_CreateWebSite">
+    <classes>
+      <class name="scripts.Yola_CreateWebSite"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

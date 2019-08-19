@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="FortudeAutomation">
+    <classes>
+      <class name="ftd.scripts.FortudeAutomation"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
